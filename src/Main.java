@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         Solution sl = new Solution();
-        System.out.println(sl.longestPalindrome("babab"));
+        System.out.println(sl.longestPalindrome("abb"));
     }
 }
